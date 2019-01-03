@@ -1,9 +1,13 @@
-# Meantuts
+# Angular Material Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
-## Development server
+## Development server / Installation
 
+git clone https://github.com/rajm/angular-material-blog.git
+cd angular-material-blog
+npm install
+ng serve
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
