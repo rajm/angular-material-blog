@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server / Installation
 
-git clone https://github.com/rajm/angular-material-blog.git
+git clone https://github.com/rajm/angular-material-blog.git \n
 cd angular-material-blog
 npm install
 ng serve
