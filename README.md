@@ -1,6 +1,7 @@
 # Angular Material Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
+This is a single page application for blog. you can create new blog post and list the blog posts under the create component. The project is very modular. 
+This can also be used as a bootstrap for a angular material project.
 
 ## Development server / Installation
 
